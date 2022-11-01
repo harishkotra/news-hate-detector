@@ -2,16 +2,16 @@
 
 Hate speech and fake news has become prominent across the globe and there are very few activists and people who work on tackling it and taking action. Expert.ai's simple API makes it so much easier to find hatred and various aspects of online hate easier to detect like below:
 
-1000 Personal Insult
-2000 Discrimination and Harassment
-    2100 Racism  
-    2200 Sexism
-    2300 Ableism
-    2400 Religious Hatred
-    2500 Homophobia
-    2600 Classism
-    2700 Body Shaming 
-3000 Threat and Violence
+* 1000 Personal Insult
+* 2000 Discrimination and Harassment
+  * 2100 Racism 
+  * 2200 Sexism
+  * 2300 Ableism
+  * 2400 Religious Hatred
+  * 2500 Homophobia
+  * 2600 Classism
+  * 2700 Body Shaming 
+* 3000 Threat and Violence
 
 ## What it does
 
